@@ -1,0 +1,1 @@
+print("mi primer crimen de odio")
